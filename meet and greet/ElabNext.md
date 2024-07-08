@@ -1,0 +1,3 @@
+# ELabNext
+ELabNext is een bedrijf die software maakt voor andere bedrijven zoals labs. Ze makes applicaties/tools die het de bedrijven makkelijker maakt.
+Ze doen dit in java, wat ik persoonlijk een hele leuk taal vindt! Ik ga hier volgend jaar zeker weten achteraan omdat dit precies is wat ik zoek! De persoon die aan het tafeltje stond was erg vriendelijk, en wilde graag meer vertellen over hoe het bedrijf in zijn werking ging. 
